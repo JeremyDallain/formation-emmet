@@ -2,6 +2,9 @@
 
 Formation non-exhaustive à l'utilisation d'Emmet.
 
+ - Cloner ou télécharger le projet pour accéder aux fichiers de démonstrations et d'exercices.
+ - Référer vous également aux ressources ci-dessous pour approfondir.
+
 
 ## Les ressources :
 
