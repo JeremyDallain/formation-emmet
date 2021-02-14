@@ -1,11 +1,10 @@
-# Bienvenue sur la formation Emmet
+# Bienvenue à la formation Emmet
 
-Formation non-exhaustive à l'utilisation d'Emmet.
-Un outil qui va vous faire gagner un temps précieux.
+Ce dépot est un support à une formation non-exhaustive à l'utilisation d'Emmet.
 
+Pour pratiquer :
  - Cloner ou télécharger le projet pour accéder aux fichiers de démonstrations et d'exercices.
  - Référer vous également aux ressources ci-dessous pour approfondir.
-
 
 ## Les ressources :
 
