@@ -1,6 +1,7 @@
 # Bienvenue sur la formation Emmet
 
 Formation non-exhaustive à l'utilisation d'Emmet.
+Un outil qui va vous faire gagner un temps précieux.
 
  - Cloner ou télécharger le projet pour accéder aux fichiers de démonstrations et d'exercices.
  - Référer vous également aux ressources ci-dessous pour approfondir.
