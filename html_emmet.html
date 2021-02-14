@@ -1,0 +1,221 @@
+<!--? Pour les exemples :Tapez la commande qui suit le =>  : puis Tapez TAB ou ENTER -->
+    
+    <!--! Abréviations de base -->
+
+    <!--* Le css link -->
+
+<!-- => link -->
+
+<!-- => link:css -->
+
+    <!--* Le DOCTYPE -->
+
+<!-- => ! -->
+
+    <!--* Le générateur de lorem ipsum  -->
+
+<!-- => lorem : 30 mots par defaut -->
+
+<!-- => lorem10 : 10 mots -->
+
+
+    <!--* Les balises (voir liste complète) -->
+
+<!-- => div, span, a, p, ul, li, h1 -->
+
+
+    <!--* Abréviations header, footer, button, blockquote, ... -->
+
+<!-- => hdr : header -->
+
+<!-- => ftr : footer -->
+
+<!-- => btn : button -->
+
+<!-- => bq : blockquote -->
+
+<!-- ------------------------------------------------------------------------- -->
+
+        <!--! attributs ID et CLASS -->
+
+    <!--* Rajouter une classe à un élément html -->
+
+<!-- => p.maClasse -->
+
+<!-- => div.maClasse -->
+    
+<!-- => .maClasse (raccourci) -->
+    
+<!-- => .maClasse1.maClasse2.maClasse3 (multiples classes)-->
+
+
+    <!--* Rajouter un id à un élément html -->
+
+<!-- => div#monID  =  #monId (raccourci)-->
+
+
+    <!--* Association de classe et id-->
+
+<!-- => p.maClasse#monId -->
+
+
+
+<!-- ------------------------------------------------------------------------- -->
+
+        <!--! Le contenu (text) : {} -->
+
+    <!--* Rajouter du contenu -->
+
+<!-- p{mon paragraphe} -->
+      
+    <!--* Exemples de chainage -->
+
+<!-- div.classe1{contenu de ma div} -->
+
+<!-- p.classe1#id1{contenu de mon paragraphe} -->
+
+
+<!-- ------------------------------------------------------------------------- -->
+
+        <!--! Les imbrications (Nesting) : >  -->
+
+    <!--* nesting basique -->
+
+<!-- => ul>li -->  
+
+<!-- => div>ul>li>a -->
+
+<!-- => ul>li.item  =  ul>.item (raccourci)-->
+
+<!-- => ul.maClasse>li#monId -->
+
+<!-- table>tr.row>td.col  =  table>.row>.col (raccourci)-->
+
+
+    <!--* Chaine + complexes -->
+
+<!-- => div>ul#monId.liste>li.item{contenu de mon li} -->
+
+
+<!-- ------------------------------------------------------------------------- -->
+
+        <!--! Multiplication : * -->
+
+    <!--* Chaine + complexes -->
+
+<!-- => div*6 -->
+
+<!-- => ul>li*10 -->
+
+
+<!-- ------------------------------------------------------------------------- -->
+
+        <!--! Index (Naming and numbering) : $ -->
+
+    <!--* Rajoute un index qui s'incremente (lié à la Multiplication) -->
+
+<!-- => ul>li{$}*6 -->
+
+<!-- => ul>li.item.item$*6 -->
+
+    <!--* plusieurs chiffres : $$$ -->
+    
+<!-- ul>li.item$$$*5 -->
+
+    <!--* decrémentation : $@-  -->
+
+<!-- ul>li.item$@-*5 -->
+
+    <!--* Incrémenté à partir de : $@x -->
+
+<!-- ul>li.item$@3*5 -->
+
+
+
+<!-- ------------------------------------------------------------------------- -->
+
+
+        <!--!  Éléments au même niveau (sibling) : +  -->
+
+    <!--* sibling simple  -->
+
+<!-- div+p+h1 -->
+
+    <!--* sibling + classe  -->
+
+<!-- div.maClasse1+div.maClasse2 -->
+
+
+    <!--* sibling + nesting  -->
+
+<!-- div>p+ul>li -->
+
+    <!--* sibling + nesting + multiplication  -->
+
+<!-- div>div>p*5 -->
+
+
+    <!--* sibling + nesting + naming + multiplication + class + text  -->
+
+<!-- div>p+ul>li.item$*3{content} -->
+
+
+<!-- ------------------------------------------------------------------------- -->
+
+
+        <!--!  Monter d'un étage (Climb-up) : ^  -->
+    
+    <!--* on remonte d'un cran dans la cascade -->
+
+<!-- => div>p^div -->
+
+   <!--* remonter de plusieurs niveaux ^^ -->
+
+<!-- => div>div>div^^p -->
+
+<!-- ------------------------------------------------------------------------- -->
+
+        <!--!  Faire des groupes (Grouping) : () -->
+
+    <!--* on groupe les elements  -->
+
+<!-- => div>(header>nav{ma navbar})+footer>p{mon footer} -->
+
+
+<!-- ------------------------------------------------------------------------- -->
+
+        <!--!  Form et Inputs  -->
+
+    <!--* exemples  -->
+
+<!-- form  -->
+
+<!-- form:get  -->
+
+<!-- form:post  -->
+
+<!-- label ou lab -->
+
+<!-- input ou inp -->
+
+<!-- input:email -->
+
+<!-- input:submit ou input:s -->
+
+<!-- select -->
+
+<!-- select>opt*5 -->
+
+<!-----------------------------------------------------------------------------> 
+
+        <!--!  Attributs : [] -->
+
+<!-- img[src="#" alt="mon image"] (pas très utile à mon sens)-->
+
+<!----------------------------------------------------------------------------->
+
+        <!--!  Structure étendue (+) : ne fonctionne pas sous VS CODE (conflits avec raccourcis existants) -->
+
+<!-- ol+, ul+, pour les listes étendues -->
+
+<!-- table+, select+, pic+ -->

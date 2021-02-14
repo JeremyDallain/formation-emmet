@@ -1,0 +1,192 @@
+body {
+
+    /*! couleur et background */
+
+/* color noire => c#0 ou c */
+
+/* background noir => bg#0 ou bg */
+
+/* couleurs qui se repetent => c#f,  c#a1, c#fc0 */
+
+/* bgc  */
+
+/* bgi  */
+
+
+    /*! position */
+
+/* position absolute => posa */
+
+/* position relative => posr */
+
+/* position fixed => posf */
+
+
+
+    /*! width et height */
+
+/* w100 = 100px */
+
+/* w100p = 100% */
+
+/* w100em = 100em */
+
+/* w100rem = 100rem */
+
+/* w100rem = 100vh */
+
+/* Identique pour height => h100, h100p, h100em, h100rem, h100vh */
+
+    /*! positions : top, bottom, left, right : t, p, l, r   */
+
+/* t30 */
+
+/* b50 */
+
+/* l45 */
+
+/* r25 */
+
+
+
+    /*! displays : block, inline, inline-block, flex, none : db, di, dib, df, dn */
+
+/* db */
+
+/* di */
+
+/* dib */
+
+/* df */
+
+/* dn */
+
+
+
+    /*! margin et padding */
+
+/* m10 */
+
+/* m10-15 */
+
+/* m5-6-7 */
+
+/* m10-5-15-25 */
+
+/* p50p */
+
+/* m:a */
+
+/* mt10 */
+
+/* pl15 */
+
+/*! fontfamily connues*/
+
+/* ffa */
+
+/* fft */
+
+/* ffv */
+
+
+
+
+
+/*! animation : toutes les propriétés associées */
+
+/* anim :  */
+
+/*! transforme */
+/* trf:t */
+/* trf:r  */
+/* trf:s */
+
+/*! bordure noire 1px */
+
+/* bd */
+
+/*! font... */
+
+/* f */
+
+/* fz */
+/* fw */
+
+/* fw:b */
+
+/* fs */
+
+/* ff */
+
+
+
+/*! text */
+
+/* ta */
+
+/* tac */
+
+/* va  */
+
+/* tdn */
+
+
+
+
+
+/* bxz */
+box-sizing: border-box;
+
+
+/* lin  */
+/* litn  */
+
+
+/* flex  */
+
+/* fxd  */
+
+/* fxw  */
+
+/* jc  */
+/* jc:sb  */
+
+/* ai  */
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
