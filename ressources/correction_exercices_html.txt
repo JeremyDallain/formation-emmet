@@ -1,0 +1,11 @@
+CORRECTION EXERCICES HTML
+
+exercice 1 : span.color-blue#maSpan
+
+exercice 2 : ul>li*5{content}
+
+exercice 3 : div.container>ul#list>li.item.item$*5{mon item$}
+
+exercice 4 : .container>.row>.col.col-3*4>p{content}
+
+exercice 5 : div.first>p{paragraphe $}*3+div>img#logo^div>span.coucou>div{au plus bas}^^p{mon dernier paragraphe}^div.second{Bravo! mais est ce que ça vaut vraiment le coup ?}
