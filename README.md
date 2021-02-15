@@ -5,6 +5,12 @@ Ce dépot est un support à une formation non-exhaustive à l'utilisation d'Emme
 Pour pratiquer :
  - Cloner ou télécharger le projet pour accéder aux fichiers de démonstrations et d'exercices.
  - Référer vous également aux ressources ci-dessous pour approfondir.
+ 
+## Emmet, c'est quoi ?
+
+Emmet est un outil qui permet de coder plus vite, de gagner en productiivité, d'éviter des erreurs et d'écrire des blocs de code (parfois conséquents) en une ligne.
+
+Il est disponible sur tous les éditeurs de texte (mais il peut y avoir des subtilités)
 
 ## Les ressources :
 
@@ -19,15 +25,6 @@ le pdf du cheatsheet : https://docs.emmet.io/cheatsheet-a5.pdf
 télécharger VS code : https://code.visualstudio.com/
 
 
-Emmet permet de coder plus vite, 
-gagner en productiivité, 
-eviter des erreurs
-ecrire des gros blocs de code en une ligne
-
-meme se creer ses propres raccourcis
-
-
-disponible sur tous les éditeurs de texte (mais il peut y avoir des subtilités)
 
 on va se concentrer sur vs-code, 
 c'est integrer direct a vscode, pas besoin d'extention
