@@ -119,11 +119,11 @@ body {
 
 /* m10 */
 
-
+margin: 10px;
 
 /* m10-15 */
 
-
+margin: 10px 12px;
 
 /* m5-6-7 */
 
@@ -133,7 +133,7 @@ body {
 
 
 
-/* p50p (marche avec toutes les unités) */
+/* p50% (marche avec toutes les unités) */
 
 
 
@@ -148,6 +148,7 @@ body {
 /* pl15 */
 
 
+
     /*! *****************************/
     /*! bordure noire 1px / outline */
     /*! *****************************/
@@ -156,7 +157,9 @@ body {
 
 
 
-/* ol */
+/* ol.. */
+
+
 
     /*! *********/
     /*! font... */
@@ -181,6 +184,7 @@ body {
 /* fs */
 
 
+
     /*! ***********/
     /*! fontfamily*/
     /*! ***********/
@@ -200,8 +204,9 @@ body {
 /* ffv (Verdana) */
 
 
+
     /*! ******/
-    /*! text */
+    /*! autres */
     /*! ******/
 
 /* tac */
@@ -227,11 +232,13 @@ body {
 /* litn  */
 
 
+
     /*! **********/
     /*! flexbox  */
     /*! **********/
 
 /* fx */
+
 
 
 /* fxd  */
@@ -252,11 +259,16 @@ body {
 
 /* ai  */
 
+
+
+
     /*! ***********/
     /*! animation */
     /*! ***********/
 
 /* anim (toutes les propriétés associées) */
+
+
 
 
     /*! ************/
