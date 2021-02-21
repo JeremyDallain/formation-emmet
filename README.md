@@ -1,4 +1,4 @@
-# Bienvenue à la formation Emmet
+# Formation Emmet
 
 Ce dépot est un support à une formation non-exhaustive à l'utilisation d'Emmet.
 
