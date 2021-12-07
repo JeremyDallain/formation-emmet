@@ -14,7 +14,7 @@ Emmet est un outil qui permet de :
 - éviter des erreurs.
 - générer dynamiquement des blocs de code (parfois conséquents) en une ligne.
 
-Il est disponible sur tous les éditeurs de texte (mais il peut y avoir des subtilités)
+Il est disponible sur tous les IDE (mais il peut y avoir des subtilités)
 
 Il est directement intégré à VS-code mais peut exister sous forme d'extension pour d'autres IDE.
 
@@ -28,5 +28,3 @@ la documentation : https://docs.emmet.io/
 le cheatsheet : https://docs.emmet.io/cheat-sheet/
 
 le pdf du cheatsheet : https://docs.emmet.io/cheatsheet-a5.pdf
-	
-télécharger VS code : https://code.visualstudio.com/
