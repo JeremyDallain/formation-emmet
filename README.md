@@ -2,6 +2,10 @@
 
 Ce dépot est un support à une formation non-exhaustive à l'utilisation d'Emmet.
 
+## Notion
+
+https://jeremy-dallain.notion.site/Emmet-49b944b78e324ae39afb42048cd8ab6b
+
 ## Pour pratiquer :
  - Cloner ou télécharger le projet pour accéder aux fichiers de démonstrations et d'exercices.
  - Référer vous également aux ressources ci-dessous pour approfondir.
